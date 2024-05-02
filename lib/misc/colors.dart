@@ -7,5 +7,5 @@ class AppColors{
   static const Color mainColor = Color(0xFF5d69b3);
   static const Color startColor = Color(0xFFE7BB4E);
   static const Color mainTextColor = Color(0xFFababad);
-  static const Color buttonBackground = Color(0xFFF1F2);
+  static const Color buttonBackground = Color(0x80989ACD);
 }
